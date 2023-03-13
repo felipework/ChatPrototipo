@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "9KoaKlOrfacSlgEpFcHuhHEjxnedFpnt9j7YGokmqEAMTy1cHkpkdKchq1IWOGeR6vAUllfrNrbok7S3Wluu5A==",
+  "dgSpecHash": "T4hn0DJ/Ksn6Ii6j/td3FNIoIsx+PFbUZfK6K1KTZhd5UEcLGbeRFBhMIhKyi6D/Xb/W7AN4/PyHpp/kkMurCA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\SMN\\Desktop\\Felipe\\Testando-docker\\chatironico\\chatironico.csproj",
+  "projectFilePath": "C:\\Users\\SMN\\Desktop\\ChatPrototipo\\chatironico\\chatironico.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
